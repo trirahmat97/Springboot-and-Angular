@@ -1,6 +1,13 @@
-Angular @CLI
+ig :> mr.x2697
+fb :> Tri Rahmat Aribowo
+linkid :> Tri Rahmat Aribowo
 
+Angular @CLI
 command line angular cli
 - ng help : digunakan untuk melihat perintah apa saja yang bisa digunakan pada angular cli
 - ng new : digunakan untuk membuat, menginisial applikasi baru dari angular
 - ng serve : digunakan untuk menjalankan aplikasi angular
+- ng lint : digunakan untuk mendefinisikan nama projek kedalan tslint.json
+- ng build : digunakan untuk membuild applikasi yang sudah fix untuk production
+- ng test : di gunakan untuk melakukan unit test pada appikasi yang dibuat
+- ng e2e : digunakan untuk end test build application
