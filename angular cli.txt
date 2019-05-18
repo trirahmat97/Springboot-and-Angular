@@ -3,3 +3,4 @@ Angular @CLI
 command line angular cli
 - ng help : digunakan untuk melihat perintah apa saja yang bisa digunakan pada angular cli
 - ng new : digunakan untuk membuat, menginisial applikasi baru dari angular
+- ng serve : digunakan untuk menjalankan aplikasi angular
