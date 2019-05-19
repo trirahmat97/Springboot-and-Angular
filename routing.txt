@@ -1,0 +1,9 @@
+---- Routing in angular 7 --
+
+- module : @angular/router
+- class utama : Routes, RouterModule
+- class chile : Router, ActivatedRoute
+
+perintah yang digunakan pada router
+- *.snapshot.params['name'] : digunakan untuk mengambil parameter;
+- *.navigate['param','param2','dll'];
