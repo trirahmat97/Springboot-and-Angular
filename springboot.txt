@@ -1,0 +1,7 @@
+1. membuat controller 
+
+- @RestController : menentukan anatotion rest controller
+- @RequestMapping : memberikan mappingan yang akan di gunakan
+- @RequestMethod  : digunakan untuk memberikan method yang akan digunakan
+- path : path yang akan digunakan
+
