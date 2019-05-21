@@ -4,4 +4,12 @@
 - @RequestMapping : memberikan mappingan yang akan di gunakan
 - @RequestMethod  : digunakan untuk memberikan method yang akan digunakan
 - path : path yang akan digunakan
+- method : method yang digunakan
 
+contoh : 
+1. @RequestMapping(method = RequestMethod.GET, path = "hello-world")
+2. @GetMapping(path = "hello world");
+
+
+2. debug error
+- application.properties : logging.level.org.springframework = debug 
