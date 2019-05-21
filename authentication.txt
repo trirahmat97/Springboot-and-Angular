@@ -4,3 +4,13 @@ pembuatan login dengan menggunakan session storage
 - sessionStorage.setItem('key', 'value') : digunakan untuk menyimpan key dan value kedalam session
 - sessionStorage.getItem('key') : digunakan untuk mengambil session 
 - sessionStorage.removeItem : menghapus session
+
+
+2. implementasi routeGuard
+digunakan untuk memberikan akses route pada setiap page link
+- implement ke class CanActivate :> router guard
+- ActivatedRouteSnapshot
+- RouterStateSnapshot
+
+implementasi authentication routing
+- canActivate:[RouterGuardService]
